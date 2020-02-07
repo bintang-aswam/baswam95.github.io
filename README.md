@@ -1,6 +1,20 @@
-# Official Curriculum Vitae: [BASWAM](https://baswam95.github.io)
+<pre>
+<strong>class readme</strong>
+{
+    String name;
+    String cv;
+    String github;
+    String mail;
+    <strong>public readme()</strong>
+    {
+        name=<em>"Bintang A.S.W.A.M"</em>;
+        cv=<em><a href="https://baswam95.github.io">cv</a></em>;  
+        github=<em><a href="https://github.com/baswam95">github</a></em>;
+        mail=<em><a href="mailto:BASWAM95@yandex.com">Drop an email</a></em>; 
 
-inspired from: [Pillar Resume/CV Template for Developers](https://themes.3rdwavemedia.com/bootstrap-templates/all/free-bootstrap4-resume-cv-template-for-developers-pillar/) 
+    }
+}
+</pre>
 
 ### Attachment of Achievements list:
 1. [ONMIPA-PT 2014](https://github.com/baswam95/baswam95.github.io/blob/master/ONMIPA_PT_2014.pdf)
