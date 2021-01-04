@@ -25,4 +25,4 @@
 6. [SEAMS Summer School 2016](https://github.com/baswam95/baswam95.github.io/blob/master/SEAMS_School_2016.pdf)
 7. [OpenVINO-Hackathon 2019](https://github.com/baswam95/baswam95.github.io/blob/master/OpenVINO_Hackathon_2019.jpeg)
 8. [AI for Accessibility-Hackathon 2019](https://github.com/baswam95/baswam95.github.io/blob/master/BASWAM_Microsoft_Hackathon_2019.png)
-9. [Short Resume 2020](https://github.com/baswam95/baswam95.github.io/blob/master/Short Resume of Bintang A.S.W.A.M_2020.pdf)
+9. [Short Resume 2020](https://github.com/baswam95/baswam95.github.io/blob/master/Short_Resume_of_Bintang_A.S.W.A.M_2020.pdf)
